@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Coding\Winform\TextfileReader\bin\Debug\TextfileReader.exe.config
+C:\Users\Admin\Desktop\Coding\Winform\TextfileReader\bin\Debug\TextfileReader.exe
+C:\Users\Admin\Desktop\Coding\Winform\TextfileReader\bin\Debug\TextfileReader.pdb
+C:\Users\Admin\Desktop\Coding\Winform\TextfileReader\obj\Debug\TextfileReader.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Coding\Winform\TextfileReader\obj\Debug\TextfileReader.Form1.resources
+C:\Users\Admin\Desktop\Coding\Winform\TextfileReader\obj\Debug\TextfileReader.Properties.Resources.resources
+C:\Users\Admin\Desktop\Coding\Winform\TextfileReader\obj\Debug\TextfileReader.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Coding\Winform\TextfileReader\obj\Debug\TextfileReader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Coding\Winform\TextfileReader\obj\Debug\TextfileReader.exe
+C:\Users\Admin\Desktop\Coding\Winform\TextfileReader\obj\Debug\TextfileReader.pdb

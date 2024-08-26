@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Coding\Winform\Info Input\bin\Debug\Info Input.exe.config
+C:\Users\Admin\Desktop\Coding\Winform\Info Input\bin\Debug\Info Input.exe
+C:\Users\Admin\Desktop\Coding\Winform\Info Input\bin\Debug\Info Input.pdb
+C:\Users\Admin\Desktop\Coding\Winform\Info Input\obj\Debug\Info Input.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Coding\Winform\Info Input\obj\Debug\Info_Input.Form1.resources
+C:\Users\Admin\Desktop\Coding\Winform\Info Input\obj\Debug\Info_Input.Properties.Resources.resources
+C:\Users\Admin\Desktop\Coding\Winform\Info Input\obj\Debug\Info Input.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Coding\Winform\Info Input\obj\Debug\Info Input.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Coding\Winform\Info Input\obj\Debug\Info Input.exe
+C:\Users\Admin\Desktop\Coding\Winform\Info Input\obj\Debug\Info Input.pdb
