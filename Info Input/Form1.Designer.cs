@@ -105,6 +105,7 @@ namespace Info_Input
             this.tbxAddress.Name = "tbxAddress";
             this.tbxAddress.Size = new System.Drawing.Size(348, 20);
             this.tbxAddress.TabIndex = 9;
+            this.tbxAddress.Leave += new System.EventHandler(this.tbxAddress_Leave);
             // 
             // tbxID
             // 
@@ -126,6 +127,7 @@ namespace Info_Input
             this.tbxName.Name = "tbxName";
             this.tbxName.Size = new System.Drawing.Size(348, 20);
             this.tbxName.TabIndex = 5;
+            this.tbxName.Leave += new System.EventHandler(this.tbxName_Leave);
             // 
             // lbGender
             // 
